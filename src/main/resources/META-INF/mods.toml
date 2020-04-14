@@ -1,0 +1,63 @@
+# This is an example mods.toml file. It contains the data relating to the loading mods.
+# There are several mandatory fields (#mandatory), and many more that are optional (#optional).
+# The overall format is standard TOML format, v0.5.0.
+# Note that there are a couple of TOML lists in this file.
+# Find more information on toml format here:  https://github.com/toml-lang/toml
+
+# The name of the mod loader type to load - for regular FML @Mod mods it should be javafml
+modLoader="javafml"
+
+# A version range to match for said mod loader - for regular FML @Mod it will be the forge version
+loaderVersion="[30,)" #mandatory (28 is current forge version)
+
+issueTrackerURL="http://my.issue.tracker/" #optional
+
+[[mods]]
+
+# The modid of the mod
+modId="subterrain"
+
+# The version number of the mod 
+version="1.0"
+
+ # A display name for the mod
+displayName="Subterrain"
+
+# A URL to query for updates for this mod. See the JSON update specification <here>
+updateJSONURL="https://www.youtube.com/channel/UC_p0bbQ_eiUmJvVQA1Phrcg" #optional
+
+# A URL for the "homepage" for this mod, displayed in the mod UI
+displayURL="https://www.youtube.com/channel/UC_p0bbQ_eiUmJvVQA1Phrcg" #optional
+
+logoFile="" #optional
+
+credits="This mod is a creation of Ancient Construct, with acknowledgements to lolinder" #optional
+
+# A text field displayed in the mod UI
+authors="Ancient Construct" #optional
+
+# The description text for the mod (multi line!) (#mandatory)
+description='''
+Subterrain: Survive underground, and seek the mysterious origin of the villagers.
+'''
+
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.subterrain]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[30,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+    
+# Here's another dependency
+[[dependencies.subterrain]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.1]"
+    ordering="NONE"
+    side="BOTH"

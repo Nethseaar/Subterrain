@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "subterrain:blocks/deathstone_tile_inner"
+    }
+}

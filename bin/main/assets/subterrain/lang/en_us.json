@@ -1,0 +1,147 @@
+{
+	"item.subterrain.green_berry": "Green Berry",
+	"item.subterrain.shriveled_green_berry": "Shriveled Green Berry",
+	"item.subterrain.shriveled_purple_berry": "Shriveled Purple Berry",
+	"item.subterrain.compact_green_berry": "Compact Green Berry",
+	"item.subterrain.compact_purple_berry": "Compact Purple Berry",
+	"item.subterrain.ring_tree_stick": "Ring Tree Stick",
+	"item.subterrain.sphere_tree_stick": "Sphere Tree Stick",
+	
+	"item.subterrain.darkstone_hex": "Darkstone Hex",
+	"item.subterrain.dimstone_hex": "Dimstone Hex",
+	"item.subterrain.deathstone_hex": "Deathstone Hex",
+	"item.subterrain.lightstone_hex": "Lightstone Hex",
+	"item.subterrain.floatstone_hex": "Floatstone Hex",
+	"item.subterrain.springstone_hex": "Springstone Hex",
+	"item.subterrain.gravity": "Gravity",
+	"item.subterrain.lethargy": "Lethargy",
+	"item.subterrain.darkness": "Darkness",
+	
+	
+	"item.subterrain.flint_tool": "Flint Tool",
+	"item.subterrain.bitumen": "Bitumen",
+	"item.subterrain.bucket_with_bitumen": "Bucket with Bitumen",
+	"item.subterrain.bitumen_bucket": "Bucket of Bitumen",
+	
+	
+	"item.subterrain.bone_pick_stone": "Stone Pickaxe",
+	"item.subterrain.bone_pick_iron": "Iron Pickaxe",
+	"item.subterrain.bone_pick_gold": "Gold Pickaxe",
+	"item.subterrain.bone_pick_diamond": "Diamond Pickaxe",
+	
+	"item.subterrain.bone_shovel_stone": "Stone Shovel",
+	"item.subterrain.bone_shovel_iron": "Iron Shovel",
+	"item.subterrain.bone_shovel_gold": "Gold Shovel",
+	"item.subterrain.bone_shovel_diamond": "Diamond Shovel",
+	
+	"item.subterrain.bone_hoe_stone": "Stone Hoe",
+	"item.subterrain.bone_hoe_iron": "Iron Hoe",
+	"item.subterrain.bone_hoe_gold": "Gold Hoe",
+	"item.subterrain.bone_hoe_diamond": "Diamond Hoe",
+	
+	"item.subterrain.bone_axe_stone": "Stone Axe",
+	"item.subterrain.bone_axe_iron": "Iron Axe",
+	"item.subterrain.bone_axe_gold": "Gold Axe",
+	"item.subterrain.bone_axe_diamond": "Diamond Axe",
+	
+	"item.subterrain.bone_sword_stone": "Stone Sword",
+	"item.subterrain.bone_sword_iron": "Iron Sword",
+	"item.subterrain.bone_sword_gold": "Gold Sword",
+	"item.subterrain.bone_sword_diamond": "Diamond Sword",
+	
+
+
+	"block.subterrain.darkstone": "Darkstone",
+	"block.subterrain.dimstone": "Dimstone",
+	"block.subterrain.deathstone": "Deathstone",
+	"block.subterrain.lightstone": "Lightstone",
+	"block.subterrain.floatstone": "Floatstone",
+	"block.subterrain.springstone": "Springstone",
+	
+	"block.subterrain.condensed_darkstone": "Condensed Darkstone",
+	"block.subterrain.condensed_dimstone": "Condensed Dimstone",
+	"block.subterrain.condensed_deathstone": "Condensed Deathstone",
+	"block.subterrain.condensed_lightstone": "Condensed Lightstone",
+	"block.subterrain.condensed_floatstone": "Condensed Floatstone",
+	"block.subterrain.condensed_springstone": "Condensed Springstone",
+	
+	"block.subterrain.smooth_darkstone": "Smooth Darkstone",
+	"block.subterrain.smooth_dimstone": "Smooth Dimstone",
+	"block.subterrain.smooth_deathstone": "Smooth Deathstone",
+	"block.subterrain.smooth_lightstone": "Smooth Lightstone",
+	"block.subterrain.smooth_floatstone": "Smooth Floatstone",
+	"block.subterrain.smooth_springstone": "Smooth Springstone",
+	
+	"block.subterrain.cracked_darkstone": "Cracked Darkstone",
+	"block.subterrain.cracked_dimstone": "Cracked Dimstone",
+	"block.subterrain.cracked_deathstone": "Cracked Deathstone",
+	"block.subterrain.cracked_lightstone": "Cracked Lightstone",
+	"block.subterrain.cracked_floatstone": "Cracked Floatstone",
+	"block.subterrain.cracked_springstone": "Cracked Springstone",
+	
+	"block.subterrain.carved_darkstone": "Carved Darkstone",
+	"block.subterrain.carved_dimstone": "Carved Dimstone",
+	"block.subterrain.carved_deathstone": "Carved Deathstone",
+	"block.subterrain.carved_lightstone": "Carved Lightstone",
+	"block.subterrain.carved_floatstone": "Carved Floatstone",
+	"block.subterrain.carved_springstone": "Carved Springstone",
+	
+	"block.subterrain.darkstone_bricks": "Darkstone Bricks",
+	"block.subterrain.dimstone_bricks": "Dimstone Bricks",
+	"block.subterrain.deathstone_bricks": "Deathstone Bricks",
+	"block.subterrain.lightstone_bricks": "Lightstone Bricks",
+	"block.subterrain.floatstone_bricks": "Floatstone Bricks",
+	"block.subterrain.springstone_bricks": "Springstone Bricks",
+	
+	"block.subterrain.gravity_ore_lightstone": "Gravity Ore",
+	"block.subterrain.darkness_ore_darkstone": "Darkness Ore",
+	"block.subterrain.darkness_ore_dimstone": "Darkness Ore",
+	"block.subterrain.darkness_ore_lightstone": "Darkness Ore",
+	"block.subterrain.lethargy_ore_darkstone": "Lethargy Ore",
+	"block.subterrain.lethargy_ore_dimstone": "Lethargy Ore",
+	"block.subterrain.lethargy_ore_lightstone": "Lethargy Ore",
+	"block.subterrain.bitumen_ore": "Bitumen Ore",
+	
+	"block.subterrain.bitumen_block": "Bitumen Block",
+	"block.subterrain.gravity_block": "Gravity Block",
+	"block.subterrain.lethargy_block": "Lethargy Block",
+	"block.subterrain.darkness_block": "Darkness Block",
+	
+	"block.subterrain.asphalt": "Asphalt",
+	"block.subterrain.end_obsidian": "End Obsidian",
+	
+	"block.subterrain.ring_tree_planks": "Ring Tree Planks",
+	"block.subterrain.ring_tree_wood": "Ring Tree Wood",
+	"block.subterrain.purple_berry": "Purple Berry",
+	
+	"block.subterrain.glowsand_north": "North-going Sand",
+	"block.subterrain.glowsand_south": "South-going Sand",
+	"block.subterrain.glowsand_east": "East-going Sand",
+	"block.subterrain.glowsand_west": "West-going Sand",
+	"block.subterrain.glowsand_up": "Up-going Sand",
+	"block.subterrain.glowsand_down": "Down-going Sand",
+	
+	"block.subterrain.lantern": "Lantern",
+	"block.subterrain.bone_ladder": "Bone Ladder",
+	"block.subterrain.bone_torch": "Bone Torch",
+	"block.subterrain.brain_mushroom": "Brain Mushroom",
+	"block.subterrain.stone_table": "Crafting Table",
+	"block.subterrain.red_rock": "Slick Rock",
+	
+	"block.subterrain.darkstone_tile": "Darkstone Tile",
+	"block.subterrain.dimstone_tile": "Dimstone Tile",
+	"block.subterrain.deathstone_tile": "Deathstone Tile",
+	"block.subterrain.lightstone_tile": "Lightstone Tile",
+	"block.subterrain.floatstone_tile": "Floatstone Tile",
+	"block.subterrain.springstone_tile": "Springstone Tile",
+	
+	"block.subterrain.darkstone_tile_inner": "Darkstone Carved Tile",
+	"block.subterrain.dimstone_tile_inner": "Dimstone Carved Tile",
+	"block.subterrain.deathstone_tile_inner": "Deathstone Carved Tile",
+	"block.subterrain.lightstone_tile_inner": "Lightstone Carved Tile",
+	"block.subterrain.floatstone_tile_inner": "Floatstone Carved Tile",
+	"block.subterrain.springstone_tile_inner": "Springstone Carved Tile",
+	
+	
+	"itemGroup.subterraintab": "Subterrain"
+}

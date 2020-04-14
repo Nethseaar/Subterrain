@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "block/glowsand_south_top",
+        "side": "block/glowsand_north-south_sides"
+    }
+}

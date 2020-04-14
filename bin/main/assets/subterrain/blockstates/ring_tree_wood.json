@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "block/ring_tree_side" },
+        "axis=z":     { "model": "block/ring_tree_side", "x": 90 },
+        "axis=x":     { "model": "block/ring_tree_side", "x": 90, "y": 90 }
+    }
+}
