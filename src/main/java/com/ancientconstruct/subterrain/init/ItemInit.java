@@ -89,6 +89,31 @@ public class ItemInit {
 	public static final Item bucket_with_bitumen = null;
 	public static final Item bitumen = null;
 	
+	//Dyed hexes
+	public static final Item darkstone_hex_white = null;
+	public static final Item darkstone_hex_pearl = null;
+	public static final Item darkstone_hex_red = null;
+	public static final Item darkstone_hex_maroon = null;
+	public static final Item darkstone_hex_blue = null;
+	public static final Item darkstone_hex_light_blue = null;
+	public static final Item darkstone_hex_cyan = null;
+	public static final Item darkstone_hex_orange = null;
+	public static final Item darkstone_hex_amber = null;
+	public static final Item darkstone_hex_grey = null;
+	public static final Item darkstone_hex_dark_grey = null;
+	public static final Item darkstone_charcoal = null;
+	public static final Item darkstone_hex_black = null;
+	public static final Item darkstone_hex_green = null;
+	public static final Item darkstone_hex_lime = null;
+	public static final Item darkstone_hex_olive = null;
+	public static final Item darkstone_hex_magenta = null;
+	public static final Item darkstone_hex_yellow = null;
+	public static final Item darkstone_hex_pink = null;
+	public static final Item darkstone_hex_purple = null;
+	public static final Item darkstone_hex_violet = null;
+	public static final Item darkstone_hex_brown = null;
+	
+	public static final Item trilobite = null;
 	
 	@SubscribeEvent
 	public static void registerItems(final RegistryEvent.Register<Item> event)
@@ -114,10 +139,36 @@ public class ItemInit {
 		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("lethargy"));
 		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("gravity"));
 		
+		//Dyed hexes
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_white"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_pearl"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_red"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_maroon"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_blue"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_light_blue"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_cyan"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_orange"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_amber"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_grey"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_dark_grey"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_charcoal"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_black"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_green"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_lime"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_olive"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_magenta"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_yellow"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_pink"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_purple"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_violet"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("darkstone_hex_brown"));
+		
 		//Misc overworld
 		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("bitumen"));
 		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("bucket_with_bitumen"));
 		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("bitumen_bucket"));
+		event.getRegistry().register(new Item(new Item.Properties().group(SubterrainItemGroup.instance)).setRegistryName("trilobite"));
+
 
 		
 		//Tools

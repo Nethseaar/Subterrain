@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "subterrain:blocks/darkness_ore_darkstone"
+        "all": "subterrain:blocks/darkness_ore_darkstone_one"
     }
 }

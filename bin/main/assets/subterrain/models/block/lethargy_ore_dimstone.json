@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "subterrain:blocks/lethargy_ore_dimstone2-1"
+        "all": "subterrain:blocks/lethargy_ore_dimstone_two_one"
     }
 }

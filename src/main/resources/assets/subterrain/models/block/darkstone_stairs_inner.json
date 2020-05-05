@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "subterrain:blocks/darkstone",
+        "top": "subterrain:blocks/darkstone",
+        "side": "subterrain:blocks/darkstone"
+    }
+}

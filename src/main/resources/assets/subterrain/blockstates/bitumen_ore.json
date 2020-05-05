@@ -1,5 +1,10 @@
 {
     "variants": {
-        "": { "model": "subterrain:block/bitumen_ore1" }
+        "": [
+            { "model": "block/subterrain:block/bitumen_ore1" },
+            { "model": "block/subterrain:block/bitumen_ore2" },
+            { "model": "block/subterrain:block/bitumen_ore3" },
+            { "model": "block/subterrain:block/bitumen_ore4" }
+        ]
     }
 }

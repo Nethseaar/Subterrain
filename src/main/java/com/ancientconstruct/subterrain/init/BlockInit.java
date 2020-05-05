@@ -3,7 +3,6 @@ package com.ancientconstruct.subterrain.init;
 import com.ancientconstruct.subterrain.Subterrain;
 import com.ancientconstruct.subterrain.Subterrain.SubterrainItemGroup;
 import com.ancientconstruct.subterrain.objects.blocks.SubterrainLadder;
-
 import net.minecraft.block.Block;
 import net.minecraft.block.MushroomBlock;
 import net.minecraft.block.SoundType;
@@ -110,7 +109,209 @@ public class BlockInit {
 		public static final Block brain_mushroom = null;
 		public static final Block stone_table = null;
 		public static final Block red_rock = null;
+		
+//		public static final Block darkstone_stairs = null;
 
+		public static final Block darkstone_white = null;
+		public static final Block condensed_darkstone_white = null;
+		public static final Block smooth_darkstone_white = null;
+		public static final Block cracked_darkstone_white = null;
+		public static final Block carved_darkstone_white = null;
+		public static final Block darkstone_bricks_white = null;
+		public static final Block darkstone_tile_white = null;
+		public static final Block darkstone_tile_inner_white = null;
+
+		public static final Block darkstone_pearl = null;
+		public static final Block condensed_darkstone_pearl = null;
+		public static final Block smooth_darkstone_pearl = null;
+		public static final Block cracked_darkstone_pearl = null;
+		public static final Block carved_darkstone_pearl = null;
+		public static final Block darkstone_bricks_pearl = null;
+		public static final Block darkstone_tile_pearl = null;
+		public static final Block darkstone_tile_inner_pearl = null;
+		
+		public static final Block darkstone_red = null;
+		public static final Block condensed_darkstone_red = null;
+		public static final Block smooth_darkstone_red = null;
+		public static final Block cracked_darkstone_red = null;
+		public static final Block carved_darkstone_red = null;
+		public static final Block darkstone_bricks_red = null;
+		public static final Block darkstone_tile_red = null;
+		public static final Block darkstone_tile_inner_red = null;
+
+		public static final Block darkstone_maroon = null;
+		public static final Block condensed_darkstone_maroon = null;
+		public static final Block smooth_darkstone_maroon = null;
+		public static final Block cracked_darkstone_maroon = null;
+		public static final Block carved_darkstone_maroon = null;
+		public static final Block darkstone_bricks_maroon = null;
+		public static final Block darkstone_tile_maroon = null;
+		public static final Block darkstone_tile_inner_maroon = null;
+		
+		public static final Block darkstone_blue = null;
+		public static final Block condensed_darkstone_blue = null;
+		public static final Block smooth_darkstone_blue = null;
+		public static final Block cracked_darkstone_blue = null;
+		public static final Block carved_darkstone_blue = null;
+		public static final Block darkstone_bricks_blue = null;
+		public static final Block darkstone_tile_blue = null;
+		public static final Block darkstone_tile_inner_blue = null;
+		
+		public static final Block darkstone_light_blue = null;
+		public static final Block condensed_darkstone_light_blue = null;
+		public static final Block smooth_darkstone_light_blue = null;
+		public static final Block cracked_darkstone_light_blue = null;
+		public static final Block carved_darkstone_light_blue = null;
+		public static final Block darkstone_bricks_light_blue = null;
+		public static final Block darkstone_tile_light_blue = null;
+		public static final Block darkstone_tile_inner_light_blue = null;
+		
+		public static final Block darkstone_cyan = null;
+		public static final Block condensed_darkstone_cyan = null;
+		public static final Block smooth_darkstone_cyan = null;
+		public static final Block cracked_darkstone_cyan = null;
+		public static final Block carved_darkstone_cyan = null;
+		public static final Block darkstone_bricks_cyan = null;
+		public static final Block darkstone_tile_cyan = null;
+		public static final Block darkstone_tile_inner_cyan = null;
+		
+		public static final Block darkstone_orange = null;
+		public static final Block condensed_darkstone_orange = null;
+		public static final Block smooth_darkstone_orange = null;
+		public static final Block cracked_darkstone_orange = null;
+		public static final Block carved_darkstone_orange = null;
+		public static final Block darkstone_bricks_orange = null;
+		public static final Block darkstone_tile_orange = null;
+		public static final Block darkstone_tile_inner_orange = null;
+		
+		public static final Block darkstone_amber = null;
+		public static final Block condensed_darkstone_amber = null;
+		public static final Block smooth_darkstone_amber = null;
+		public static final Block cracked_darkstone_amber = null;
+		public static final Block carved_darkstone_amber = null;
+		public static final Block darkstone_bricks_amber = null;
+		public static final Block darkstone_tile_amber = null;
+		public static final Block darkstone_tile_inner_amber = null;
+		
+		public static final Block darkstone_grey = null;
+		public static final Block condensed_darkstone_grey = null;
+		public static final Block smooth_darkstone_grey = null;
+		public static final Block cracked_darkstone_grey = null;
+		public static final Block carved_darkstone_grey = null;
+		public static final Block darkstone_bricks_grey = null;
+		public static final Block darkstone_tile_grey = null;
+		public static final Block darkstone_tile_inner_grey = null;
+		
+		public static final Block darkstone_dark_grey = null;
+		public static final Block condensed_darkstone_dark_grey = null;
+		public static final Block smooth_darkstone_dark_grey = null;
+		public static final Block cracked_darkstone_dark_grey = null;
+		public static final Block carved_darkstone_dark_grey = null;
+		public static final Block darkstone_bricks_dark_grey = null;
+		public static final Block darkstone_tile_dark_grey = null;
+		public static final Block darkstone_tile_inner_dark_grey = null;
+		
+		public static final Block darkstone_charcoal = null;
+		public static final Block condensed_darkstone_charcoal = null;
+		public static final Block smooth_darkstone_charcoal = null;
+		public static final Block cracked_darkstone_charcoal = null;
+		public static final Block carved_darkstone_charcoal = null;
+		public static final Block darkstone_bricks_charcoal = null;
+		public static final Block darkstone_tile_charcoal = null;
+		public static final Block darkstone_tile_inner_charcoal = null;
+		
+		public static final Block darkstone_black = null;
+		public static final Block condensed_darkstone_black = null;
+		public static final Block smooth_darkstone_black = null;
+		public static final Block cracked_darkstone_black = null;
+		public static final Block carved_darkstone_black = null;
+		public static final Block darkstone_bricks_black = null;
+		public static final Block darkstone_tile_black = null;
+		public static final Block darkstone_tile_inner_black = null;
+		
+		public static final Block darkstone_green = null;
+		public static final Block condensed_darkstone_green = null;
+		public static final Block smooth_darkstone_green = null;
+		public static final Block cracked_darkstone_green = null;
+		public static final Block carved_darkstone_green = null;
+		public static final Block darkstone_bricks_green = null;
+		public static final Block darkstone_tile_green = null;
+		public static final Block darkstone_tile_inner_green = null;
+		
+		public static final Block darkstone_lime = null;
+		public static final Block condensed_darkstone_lime = null;
+		public static final Block smooth_darkstone_lime = null;
+		public static final Block cracked_darkstone_lime = null;
+		public static final Block carved_darkstone_lime = null;
+		public static final Block darkstone_bricks_lime = null;
+		public static final Block darkstone_tile_lime = null;
+		public static final Block darkstone_tile_inner_lime = null;
+		
+		public static final Block darkstone_olive = null;
+		public static final Block condensed_darkstone_olive = null;
+		public static final Block smooth_darkstone_olive = null;
+		public static final Block cracked_darkstone_olive = null;
+		public static final Block carved_darkstone_olive = null;
+		public static final Block darkstone_bricks_olive = null;
+		public static final Block darkstone_tile_olive = null;
+		public static final Block darkstone_tile_inner_olive = null;
+		
+		public static final Block darkstone_magenta = null;
+		public static final Block condensed_darkstone_magenta = null;
+		public static final Block smooth_darkstone_magenta = null;
+		public static final Block cracked_darkstone_magenta = null;
+		public static final Block carved_darkstone_magenta = null;
+		public static final Block darkstone_bricks_magenta = null;
+		public static final Block darkstone_tile_magenta = null;
+		public static final Block darkstone_tile_inner_magenta = null;
+		
+		public static final Block darkstone_yellow = null;
+		public static final Block condensed_darkstone_yellow = null;
+		public static final Block smooth_darkstone_yellow = null;
+		public static final Block cracked_darkstone_yellow = null;
+		public static final Block carved_darkstone_yellow = null;
+		public static final Block darkstone_bricks_yellow = null;
+		public static final Block darkstone_tile_yellow = null;
+		public static final Block darkstone_tile_inner_yellow = null;
+		
+		public static final Block darkstone_pink = null;
+		public static final Block condensed_darkstone_pink = null;
+		public static final Block smooth_darkstone_pink = null;
+		public static final Block cracked_darkstone_pink = null;
+		public static final Block carved_darkstone_pink = null;
+		public static final Block darkstone_bricks_pink = null;
+		public static final Block darkstone_tile_pink = null;
+		public static final Block darkstone_tile_inner_pink = null;
+		
+		public static final Block darkstone_purple = null;
+		public static final Block condensed_darkstone_purple = null;
+		public static final Block smooth_darkstone_purple = null;
+		public static final Block cracked_darkstone_purple = null;
+		public static final Block carved_darkstone_purple = null;
+		public static final Block darkstone_bricks_purple = null;
+		public static final Block darkstone_tile_purple = null;
+		public static final Block darkstone_tile_inner_purple = null;
+		
+		public static final Block darkstone_violet = null;
+		public static final Block condensed_darkstone_violet = null;
+		public static final Block smooth_darkstone_violet = null;
+		public static final Block cracked_darkstone_violet = null;
+		public static final Block carved_darkstone_violet = null;
+		public static final Block darkstone_bricks_violet = null;
+		public static final Block darkstone_tile_violet = null;
+		public static final Block darkstone_tile_inner_violet = null;
+		
+		public static final Block darkstone_brown = null;
+		public static final Block condensed_darkstone_brown = null;
+		public static final Block smooth_darkstone_brown = null;
+		public static final Block cracked_darkstone_brown = null;
+		public static final Block carved_darkstone_brown = null;
+		public static final Block darkstone_bricks_brown = null;
+		public static final Block darkstone_tile_brown = null;
+		public static final Block darkstone_tile_inner_brown = null;
+		
+		public static final Block shale = null;
+		
 		
 		@SubscribeEvent
 		public static void registerBlocks (final RegistryEvent.Register<Block> event)
@@ -204,6 +405,207 @@ public class BlockInit {
 			event.getRegistry().register(new MushroomBlock(Block.Properties.create(Material.PLANTS).doesNotBlockMovement().tickRandomly().sound(SoundType.PLANT)).setRegistryName("brain_mushroom"));
 			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(1)).setRegistryName("stone_table"));
 			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(1)).setRegistryName("red_rock"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_white"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_white"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_white"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_white"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_white"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_white"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_white"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_white"));
+	
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_pearl"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_pearl"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_pearl"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_pearl"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_pearl"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_pearl"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_pearl"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_pearl"));
+	
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_red"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_red"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_red"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_red"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_red"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_red"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_red"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_red"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_maroon"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_maroon"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_maroon"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_maroon"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_maroon"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_maroon"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_maroon"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_maroon"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_blue"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_blue"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_blue"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_blue"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_blue"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_blue"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_blue"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_blue"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_light_blue"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_light_blue"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_light_blue"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_light_blue"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_light_blue"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_light_blue"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_light_blue"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_light_blue"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_cyan"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_cyan"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_cyan"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_cyan"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_cyan"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_cyan"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_cyan"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_cyan"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_orange"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_orange"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_orange"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_orange"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_orange"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_orange"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_orange"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_orange"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_amber"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_amber"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_amber"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_amber"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_amber"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_amber"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_amber"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_amber"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_grey"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_grey"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_grey"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_grey"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_grey"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_grey"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_grey"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_grey"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_dark_grey"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_dark_grey"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_dark_grey"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_dark_grey"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_dark_grey"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_dark_grey"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_dark_grey"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_dark_grey"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_charcoal"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_charcoal"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_charcoal"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_charcoal"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_charcoal"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_charcoal"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_charcoal"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_charcoal"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_black"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_black"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_black"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_black"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_black"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_black"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_black"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_black"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_green"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_green"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_green"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_green"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_green"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_green"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_green"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_green"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_lime"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_lime"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_lime"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_lime"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_lime"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_lime"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_lime"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_lime"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_olive"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_olive"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_olive"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_olive"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_olive"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_olive"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_olive"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_olive"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_magenta"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_magenta"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_magenta"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_magenta"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_magenta"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_magenta"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_magenta"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_magenta"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_yellow"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_yellow"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_yellow"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_yellow"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_yellow"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_yellow"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_yellow"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_yellow"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_pink"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_pink"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_pink"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_pink"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_pink"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_pink"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_pink"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_pink"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_purple"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_purple"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_purple"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_purple"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_purple"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_purple"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_purple"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_purple"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_violet"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_violet"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_violet"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_violet"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_violet"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_violet"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_violet"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_violet"));
+			
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_brown"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("condensed_darkstone_brown"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("smooth_darkstone_brown"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("cracked_darkstone_brown"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("carved_darkstone_brown"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_bricks_brown"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_brown"));
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(2)).setRegistryName("darkstone_tile_inner_brown"));
+	
+			event.getRegistry().register(new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(1.5f, 6.0f).sound(SoundType.STONE).harvestTool(ToolType.PICKAXE).harvestLevel(1)).setRegistryName("shale"));
+
 		}
 		
 		@SubscribeEvent
@@ -299,5 +701,206 @@ public class BlockInit {
 			event.getRegistry().register(new BlockItem(lightstone_tile_inner, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("lightstone_tile_inner"));
 			event.getRegistry().register(new BlockItem(floatstone_tile_inner, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("floatstone_tile_inner"));
 			event.getRegistry().register(new BlockItem(springstone_tile_inner, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("springstone_tile_inner"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_white, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_white"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_white, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_white"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_white, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_white"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_white, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_white"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_white, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_white"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_white, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_white"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_white, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_white"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_white, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_white"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_pearl, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_pearl"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_pearl, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_pearl"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_pearl, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_pearl"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_pearl, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_pearl"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_pearl, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_pearl"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_pearl, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_pearl"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_pearl, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_pearl"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_pearl, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_pearl"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_red, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_red"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_red, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_red"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_red, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_red"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_red, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_red"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_red, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_red"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_red, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_red"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_red, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_red"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_red, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_red"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_maroon, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_maroon"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_maroon, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_maroon"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_maroon, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_maroon"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_maroon, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_maroon"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_maroon, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_maroon"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_maroon, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_maroon"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_maroon, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_maroon"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_maroon, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_maroon"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_blue"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_blue"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_blue"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_blue"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_blue"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_blue"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_blue"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_blue"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_light_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_light_blue"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_light_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_light_blue"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_light_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_light_blue"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_light_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_light_blue"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_light_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_light_blue"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_light_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_light_blue"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_light_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_light_blue"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_light_blue, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_light_blue"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_cyan, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_cyan"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_cyan, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_cyan"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_cyan, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_cyan"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_cyan, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_cyan"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_cyan, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_cyan"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_cyan, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_cyan"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_cyan, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_cyan"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_cyan, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_cyan"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_orange, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_orange"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_orange, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_orange"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_orange, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_orange"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_orange, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_orange"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_orange, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_orange"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_orange, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_orange"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_orange, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_orange"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_orange, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_orange"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_amber, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_amber"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_amber, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_amber"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_amber, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_amber"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_amber, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_amber"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_amber, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_amber"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_amber, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_amber"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_amber, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_amber"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_amber, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_amber"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_grey"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_grey"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_grey"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_grey"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_grey"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_grey"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_grey"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_grey"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_dark_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_dark_grey"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_dark_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_dark_grey"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_dark_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_dark_grey"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_dark_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_dark_grey"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_dark_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_dark_grey"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_dark_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_dark_grey"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_dark_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_dark_grey"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_dark_grey, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_dark_grey"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_charcoal, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_charcoal"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_charcoal, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_charcoal"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_charcoal, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_charcoal"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_charcoal, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_charcoal"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_charcoal, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_charcoal"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_charcoal, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_charcoal"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_charcoal, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_charcoal"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_charcoal, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_charcoal"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_black, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_black"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_black, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_black"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_black, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_black"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_black, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_black"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_black, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_black"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_black, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_black"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_black, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_black"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_black, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_black"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_green, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_green"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_green, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_green"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_green, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_green"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_green, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_green"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_green, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_green"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_green, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_green"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_green, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_green"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_green, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_green"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_lime, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_lime"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_lime, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_lime"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_lime, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_lime"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_lime, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_lime"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_lime, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_lime"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_lime, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_lime"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_lime, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_lime"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_lime, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_lime"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_olive, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_olive"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_olive, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_olive"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_olive, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_olive"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_olive, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_olive"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_olive, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_olive"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_olive, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_olive"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_olive, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_olive"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_olive, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_olive"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_magenta, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_magenta"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_magenta, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_magenta"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_magenta, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_magenta"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_magenta, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_magenta"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_magenta, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_magenta"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_magenta, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_magenta"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_magenta, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_magenta"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_magenta, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_magenta"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_yellow, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_yellow"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_yellow, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_yellow"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_yellow, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_yellow"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_yellow, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_yellow"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_yellow, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_yellow"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_yellow, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_yellow"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_yellow, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_yellow"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_yellow, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_yellow"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_pink, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_pink"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_pink, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_pink"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_pink, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_pink"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_pink, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_pink"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_pink, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_pink"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_pink, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_pink"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_pink, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_pink"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_pink, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_pink"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_purple, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_purple"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_purple, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_purple"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_purple, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_purple"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_purple, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_purple"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_purple, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_purple"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_purple, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_purple"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_purple, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_purple"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_purple, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_purple"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_violet, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_violet"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_violet, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_violet"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_violet, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_violet"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_violet, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_violet"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_violet, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_violet"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_violet, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_violet"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_violet, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_violet"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_violet, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_violet"));
+			
+			event.getRegistry().register(new BlockItem(darkstone_brown, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_brown"));
+			event.getRegistry().register(new BlockItem(condensed_darkstone_brown, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("condensed_darkstone_brown"));
+			event.getRegistry().register(new BlockItem(smooth_darkstone_brown, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("smooth_darkstone_brown"));
+			event.getRegistry().register(new BlockItem(cracked_darkstone_brown, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("cracked_darkstone_brown"));
+			event.getRegistry().register(new BlockItem(carved_darkstone_brown, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("carved_darkstone_brown"));
+			event.getRegistry().register(new BlockItem(darkstone_bricks_brown, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_bricks_brown"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_brown, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_brown"));
+			event.getRegistry().register(new BlockItem(darkstone_tile_inner_brown, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("darkstone_tile_inner_brown"));			
+	
+			event.getRegistry().register(new BlockItem(shale, new Item.Properties().maxStackSize(64).group(SubterrainItemGroup.instance)).setRegistryName("shale"));			
+
 		}
 }

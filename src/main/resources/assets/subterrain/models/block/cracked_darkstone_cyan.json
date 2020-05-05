@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "subterrain:blocks/cracked_darkstone_cyan"
+    }
+}

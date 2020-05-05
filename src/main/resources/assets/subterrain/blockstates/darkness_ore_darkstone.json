@@ -1,5 +1,9 @@
 {
     "variants": {
-        "": { "model": "subterrain:block/darkness_ore_darkstone" }
+        "": { "model": "subterrain:block/darkness_ore_darkstone_one" }
+        "": { "model": "subterrain:block/darkness_ore_darkstone_two" }
+        "": { "model": "subterrain:block/darkness_ore_darkstone_three" }
+        "": { "model": "subterrain:block/darkness_ore_darkstone_four" }
+        "": { "model": "subterrain:block/darkness_ore_darkstone_five" }
     }
 }

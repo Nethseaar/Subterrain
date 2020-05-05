@@ -7,8 +7,11 @@ import org.apache.logging.log4j.Logger;
 
 import com.ancientconstruct.subterrain.init.BlockInit;
 
+import net.minecraft.client.renderer.RenderType;
+import net.minecraft.client.renderer.RenderTypeLookup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
+import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
@@ -20,6 +23,7 @@ import net.minecraftforge.fml.event.lifecycle.InterModEnqueueEvent;
 import net.minecraftforge.fml.event.lifecycle.InterModProcessEvent;
 import net.minecraftforge.fml.event.server.FMLServerStartingEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.minecraftforge.fml.loading.FMLEnvironment;
 
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod("subterrain")
@@ -37,7 +41,7 @@ public class Subterrain
     	modEventBus.addListener(this::enqueueIMC);
     	modEventBus.addListener(this::processIMC);
     	modEventBus.addListener(this::doClientStuff);
-        
+    	
         instance = this;
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
@@ -51,6 +55,11 @@ public class Subterrain
     private void doClientStuff(final FMLClientSetupEvent event) {
         // do something that can only be done on the client
         LOGGER.info("Got game settings {}", event.getMinecraftSupplier().get().gameSettings);
+        
+        if (FMLEnvironment.dist == Dist.CLIENT) {
+    		RenderTypeLookup.setRenderLayer(BlockInit.brain_mushroom, RenderType.getCutout());
+    		RenderTypeLookup.setRenderLayer(BlockInit.bone_ladder, RenderType.getCutoutMipped());
+    	}
     }
 
     private void enqueueIMC(final InterModEnqueueEvent event)
