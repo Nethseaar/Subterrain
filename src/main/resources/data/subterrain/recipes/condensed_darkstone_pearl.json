@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "subterrain:smooth_darkstone_pearl"
+  },
+  "result": "subterrain:condensed_darkstone_pearl",
+  "experience": 0.35,
+  "cookingtime": 200
+}

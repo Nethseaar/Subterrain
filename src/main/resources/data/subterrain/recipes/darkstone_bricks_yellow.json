@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "subterrain:smooth_darkstone_yellow"
+    }
+  },
+  "result": {
+    "item": "subterrain:darkstone_bricks_yellow",
+    "count": 4
+  }
+}

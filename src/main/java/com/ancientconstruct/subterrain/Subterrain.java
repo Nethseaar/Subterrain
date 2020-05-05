@@ -58,7 +58,7 @@ public class Subterrain
         
         if (FMLEnvironment.dist == Dist.CLIENT) {
     		RenderTypeLookup.setRenderLayer(BlockInit.brain_mushroom, RenderType.getCutout());
-    		RenderTypeLookup.setRenderLayer(BlockInit.bone_ladder, RenderType.getCutoutMipped());
+    		RenderTypeLookup.setRenderLayer(BlockInit.bone_ladder, RenderType.getLines());
     	}
     }
 

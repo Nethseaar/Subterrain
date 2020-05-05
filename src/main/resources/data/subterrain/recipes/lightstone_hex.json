@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "subterrain:cracked_lightstone"
+  },
+  "result": "subterrain:lightstone_hex",
+  "experience": 0.25,
+  "cookingtime": 200,
+  "count": 7
+}

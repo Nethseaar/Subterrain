@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "subterrain:smooth_darkstone_red"
+  },
+  "result": "subterrain:condensed_darkstone_red",
+  "experience": 0.35,
+  "cookingtime": 200
+}

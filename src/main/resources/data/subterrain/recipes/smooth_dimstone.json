@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "subterrain:dimstone_bricks"
+    }
+  },
+  "result": {
+    "item": "subterrain:smooth_dimstone"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "subterrain:darkstone_cyan"
+  },
+  "result": "subterrain:cracked_darkstone_cyan",
+  "experience": 0.35,
+  "cookingtime": 200
+}

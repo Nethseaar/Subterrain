@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "subterrain:smooth_deathstone"
+  },
+  "result": "subterrain:condensed_deathstone",
+  "experience": 0.35,
+  "cookingtime": 200
+}

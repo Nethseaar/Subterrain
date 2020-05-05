@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "subterrain:smooth_darkstone_lime"
+  },
+  "result": "subterrain:condensed_darkstone_lime",
+  "experience": 0.35,
+  "cookingtime": 200
+}

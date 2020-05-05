@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "subterrain:darkstone_olive"
+  },
+  "result": "subterrain:cracked_darkstone_olive",
+  "experience": 0.35,
+  "cookingtime": 200
+}

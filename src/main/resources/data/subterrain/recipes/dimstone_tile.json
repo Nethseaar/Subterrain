@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "X X",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "subterrain:smooth_dimstone"
+    }
+  },
+  "result": {
+    "item": "subterrain:dimstone_tile",
+    "count": 4
+  }
+}

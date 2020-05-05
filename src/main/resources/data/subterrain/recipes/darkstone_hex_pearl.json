@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "subterrain:cracked_darkstone_pearl"
+  },
+  "result": "subterrain:darkstone_hex_pearl",
+  "experience": 0.25,
+  "cookingtime": 200,
+  "count": 7
+}

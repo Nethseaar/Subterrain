@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "subterrain:purple_berry"
+  },
+  "result": "subterrain:shriveled_purple_berry",
+  "experience": 0.35,
+  "cookingtime": 100
+}

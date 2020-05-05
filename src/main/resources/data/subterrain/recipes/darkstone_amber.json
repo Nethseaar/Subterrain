@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "subterrain:condensed_darkstone_amber"
+  },
+  "result": "subterrain:darkstone_amber",
+  "experience": 0.35,
+  "cookingtime": 200
+}

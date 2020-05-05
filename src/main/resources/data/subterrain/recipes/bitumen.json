@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "subterrain:bitumen_block"
+    }
+  ],
+  "result": {
+    "item": "subterrain:bitumen",
+    "count": 9
+  }
+}

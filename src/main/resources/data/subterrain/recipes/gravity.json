@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "subterrain:gravity_block"
+    }
+  ],
+  "result": {
+    "item": "subterrain:gravity",
+    "count": 9
+  }
+}

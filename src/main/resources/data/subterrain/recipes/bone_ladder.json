@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "YXY",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:bone"
+    },
+    "Y": {
+      "item:" "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "subterrain:bone_ladder",
+    "count": 32
+  }
+}

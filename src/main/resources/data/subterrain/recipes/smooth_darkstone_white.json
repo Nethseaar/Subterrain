@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "subterrain:darkstone_bricks_white"
+    }
+  },
+  "result": {
+    "item": "subterrain:smooth_darkstone_white"
+  }
+}

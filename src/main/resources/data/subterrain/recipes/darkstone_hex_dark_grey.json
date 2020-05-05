@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "subterrain:cracked_darkstone_dark_grey"
+  },
+  "result": "subterrain:darkstone_hex_dark_grey",
+  "experience": 0.25,
+  "cookingtime": 200,
+  "count": 7
+}

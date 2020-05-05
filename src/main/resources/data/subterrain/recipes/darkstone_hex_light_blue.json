@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "subterrain:cracked_darkstone_light_blue"
+  },
+  "result": "subterrain:darkstone_hex_light_blue",
+  "experience": 0.25,
+  "cookingtime": 200,
+  "count": 7
+}

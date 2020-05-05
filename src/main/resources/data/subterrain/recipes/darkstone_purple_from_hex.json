@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "subterrain:darkstone_hex_purple"
+    }
+  },
+  "result": {
+    "item": "subterrain:darkstone_purple"
+  }
+}

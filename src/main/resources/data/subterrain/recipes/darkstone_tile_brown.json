@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "X X",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "subterrain:smooth_darkstone_brown"
+    }
+  },
+  "result": {
+    "item": "subterrain:darkstone_tile_brown",
+    "count": 4
+  }
+}

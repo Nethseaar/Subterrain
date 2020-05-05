@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "subterrain:smooth_dimstone"
+  },
+  "result": "subterrain:condensed_dimstone",
+  "experience": 0.35,
+  "cookingtime": 200
+}

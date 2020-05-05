@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "subterrain:darkstone_charcoal"
+  },
+  "result": "subterrain:cracked_darkstone_charcoal",
+  "experience": 0.35,
+  "cookingtime": 200
+}

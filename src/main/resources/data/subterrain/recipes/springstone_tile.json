@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "X X",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "subterrain:smooth_springstone"
+    }
+  },
+  "result": {
+    "item": "subterrain:springstone_tile",
+    "count": 4
+  }
+}

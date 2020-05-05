@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "subterrain:lethargy_block"
+    }
+  ],
+  "result": {
+    "item": "subterrain:lethargy",
+    "count": 9
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "subterrain:darkness"
+    }
+  },
+  "result": {
+    "item": "subterrain:darkness_block"
+  }
+}

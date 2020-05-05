@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "subterrain:smooth_floatstone"
+  },
+  "result": "subterrain:condensed_floatstone",
+  "experience": 0.35,
+  "cookingtime": 200
+}
