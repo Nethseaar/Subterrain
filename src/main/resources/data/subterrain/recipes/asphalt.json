@@ -1,22 +1,23 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "XiX",
-    "i#i",
-    "XiX"
+    "XIX",
+    "I#I",
+    "XIX"
   ],
   "key": {
+    "I": {
+      "item": "minecraft:sand"
+    },
     "#": {
       "item": "subterrain:bitumen_bucket"
     },
     "X": {
       "item": "minecraft:gravel"
-    },
-    "i": {
-      "item:" "minecraft:sand"
     }
   },
   "result": {
-    "item": "subterrain:asphalt"
+    "item": "subterrain:asphalt",
+    "count": 12
   }
 }

@@ -10,10 +10,11 @@
       "item": "minecraft:white_dye"
     },
     "X": {
-      "item": "subterrain:darkstone"
+      "tag": "subterrain:darkstones"
     }
   },
   "result": {
-    "item": "subterrain:darkstone_white"
+    "item": "subterrain:darkstone_white",
+    "count": 8
   }
 }

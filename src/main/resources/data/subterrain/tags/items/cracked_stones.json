@@ -1,0 +1,33 @@
+{
+	"replace": false,
+	"values": [
+		"subterrain:cracked_darkstone",
+		"subterrain:cracked_dimstone",
+		"subterrain:cracked_lightstone",
+		"subterrain:cracked_deathstone",
+		"subterrain:cracked_floatstone",
+		"subterrain:cracked_springstone",
+		"subterrain:cracked_darkstone_white",
+		"subterrain:cracked_darkstone_pearl",
+		"subterrain:cracked_darkstone_red",
+		"subterrain:cracked_darkstone_maroon",
+		"subterrain:cracked_darkstone_blue",
+		"subterrain:cracked_darkstone_light_blue",
+		"subterrain:cracked_darkstone_cyan",
+		"subterrain:cracked_darkstone_orange",
+		"subterrain:cracked_darkstone_amber",
+		"subterrain:cracked_darkstone_grey",
+		"subterrain:cracked_darkstone_dark_grey",
+		"subterrain:cracked_darkstone_charcoal",
+		"subterrain:cracked_darkstone_black",
+		"subterrain:cracked_darkstone_green",
+		"subterrain:cracked_darkstone_lime",
+		"subterrain:cracked_darkstone_olive",
+		"subterrain:cracked_darkstone_magenta",
+		"subterrain:cracked_darkstone_pink",
+		"subterrain:cracked_darkstone_purple",
+		"subterrain:cracked_darkstone_violet",
+		"subterrain:cracked_darkstone_yellow",
+		"subterrain:cracked_darkstone_brown"
+	]
+}

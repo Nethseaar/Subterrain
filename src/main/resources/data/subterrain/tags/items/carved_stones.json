@@ -1,0 +1,33 @@
+{
+	"replace": false,
+	"values": [
+		"subterrain:carved_darkstone",
+		"subterrain:carved_dimstone",
+		"subterrain:carved_lightstone",
+		"subterrain:carved_deathstone",
+		"subterrain:carved_floatstone",
+		"subterrain:carved_springstone",
+		"subterrain:carved_darkstone_white",
+		"subterrain:carved_darkstone_pearl",
+		"subterrain:carved_darkstone_red",
+		"subterrain:carved_darkstone_maroon",
+		"subterrain:carved_darkstone_blue",
+		"subterrain:carved_darkstone_light_blue",
+		"subterrain:carved_darkstone_cyan",
+		"subterrain:carved_darkstone_orange",
+		"subterrain:carved_darkstone_amber",
+		"subterrain:carved_darkstone_grey",
+		"subterrain:carved_darkstone_dark_grey",
+		"subterrain:carved_darkstone_charcoal",
+		"subterrain:carved_darkstone_black",
+		"subterrain:carved_darkstone_green",
+		"subterrain:carved_darkstone_lime",
+		"subterrain:carved_darkstone_olive",
+		"subterrain:carved_darkstone_magenta",
+		"subterrain:carved_darkstone_pink",
+		"subterrain:carved_darkstone_purple",
+		"subterrain:carved_darkstone_violet",
+		"subterrain:carved_darkstone_yellow",
+		"subterrain:carved_darkstone_brown"
+	]
+}
