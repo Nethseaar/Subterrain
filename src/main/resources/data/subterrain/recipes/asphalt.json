@@ -7,7 +7,7 @@
   ],
   "key": {
     "#": {
-      "item": "subterrain:bitumen"
+      "item": "subterrain:bitumen_bucket"
     },
     "X": {
       "item": "minecraft:gravel"
@@ -17,7 +17,6 @@
     }
   },
   "result": {
-    "item": "subterrain:asphalt",
-    "count": 16
+    "item": "subterrain:asphalt"
   }
 }

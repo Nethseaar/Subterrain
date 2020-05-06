@@ -1,0 +1,33 @@
+{
+	"replace": false,
+	"values": [
+		"subterrain:darkstone_hex",
+		"subterrain:dimstone_hex",
+		"subterrain:lightstone_hex",
+		"subterrain:deathstone_hex",
+		"subterrain:floatstone_hex",
+		"subterrain:springstone_hex",
+		"subterrain:darkstone_hex_white",
+		"subterrain:darkstone_hex_pearl",
+		"subterrain:darkstone_hex_red",
+		"subterrain:darkstone_hex_maroon",
+		"subterrain:darkstone_hex_blue",
+		"subterrain:darkstone_hex_light_blue",
+		"subterrain:darkstone_hex_cyan",
+		"subterrain:darkstone_hex_orange",
+		"subterrain:darkstone_hex_amber",
+		"subterrain:darkstone_hex_grey",
+		"subterrain:darkstone_hex_dark_grey",
+		"subterrain:darkstone_hex_charcoal",
+		"subterrain:darkstone_hex_black",
+		"subterrain:darkstone_hex_green",
+		"subterrain:darkstone_hex_lime",
+		"subterrain:darkstone_hex_olive",
+		"subterrain:darkstone_hex_magenta",
+		"subterrain:darkstone_hex_pink",
+		"subterrain:darkstone_hex_purple",
+		"subterrain:darkstone_hex_violet",
+		"subterrain:darkstone_hex_yellow",
+		"subterrain:darkstone_hex_brown"
+	]
+}

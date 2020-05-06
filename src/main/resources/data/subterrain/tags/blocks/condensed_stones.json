@@ -1,0 +1,33 @@
+{
+	"replace": false,
+	"values": [
+		"subterrain:condensed_darkstone",
+		"subterrain:condensed_dimstone",
+		"subterrain:condensed_lightstone",
+		"subterrain:condensed_deathstone",
+		"subterrain:condensed_floatstone",
+		"subterrain:condensed_springstone",
+		"subterrain:condensed_darkstone_white",
+		"subterrain:condensed_darkstone_pearl",
+		"subterrain:condensed_darkstone_red",
+		"subterrain:condensed_darkstone_maroon",
+		"subterrain:condensed_darkstone_blue",
+		"subterrain:condensed_darkstone_light_blue",
+		"subterrain:condensed_darkstone_cyan",
+		"subterrain:condensed_darkstone_orange",
+		"subterrain:condensed_darkstone_amber",
+		"subterrain:condensed_darkstone_grey",
+		"subterrain:condensed_darkstone_dark_grey",
+		"subterrain:condensed_darkstone_charcoal",
+		"subterrain:condensed_darkstone_black",
+		"subterrain:condensed_darkstone_green",
+		"subterrain:condensed_darkstone_lime",
+		"subterrain:condensed_darkstone_olive",
+		"subterrain:condensed_darkstone_magenta",
+		"subterrain:condensed_darkstone_pink",
+		"subterrain:condensed_darkstone_purple",
+		"subterrain:condensed_darkstone_violet",
+		"subterrain:condensed_darkstone_yellow",
+		"subterrain:condensed_darkstone_brown"
+	]
+}

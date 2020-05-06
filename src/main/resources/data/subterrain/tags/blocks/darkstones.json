@@ -1,0 +1,28 @@
+{
+	"replace": false,
+	"values": [
+		"subterrain:darkstone",
+		"subterrain:darkstone_white",
+		"subterrain:darkstone_pearl",
+		"subterrain:darkstone_red",
+		"subterrain:darkstone_maroon",
+		"subterrain:darkstone_blue",
+		"subterrain:darkstone_light_blue",
+		"subterrain:darkstone_cyan",
+		"subterrain:darkstone_orange",
+		"subterrain:darkstone_amber",
+		"subterrain:darkstone_grey",
+		"subterrain:darkstone_dark_grey",
+		"subterrain:darkstone_charcoal",
+		"subterrain:darkstone_black",
+		"subterrain:darkstone_green",
+		"subterrain:darkstone_lime",
+		"subterrain:darkstone_olive",
+		"subterrain:darkstone_magenta",
+		"subterrain:darkstone_pink",
+		"subterrain:darkstone_purple",
+		"subterrain:darkstone_violet",
+		"subterrain:darkstone_yellow",
+		"subterrain:darkstone_brown"
+	]
+}

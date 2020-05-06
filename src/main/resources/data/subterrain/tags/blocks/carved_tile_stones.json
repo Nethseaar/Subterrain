@@ -1,0 +1,33 @@
+{
+	"replace": false,
+	"values": [
+		"subterrain:darkstone_tile_inner",
+		"subterrain:dimstone_tile_inner",
+		"subterrain:lightstone_tile_inner",
+		"subterrain:deathstone_tile_inner",
+		"subterrain:floatstone_tile_inner",
+		"subterrain:springstone_tile_inner",
+		"subterrain:darkstone_tile_inner_white",
+		"subterrain:darkstone_tile_inner_pearl",
+		"subterrain:darkstone_tile_inner_red",
+		"subterrain:darkstone_tile_inner_maroon",
+		"subterrain:darkstone_tile_inner_blue",
+		"subterrain:darkstone_tile_inner_light_blue",
+		"subterrain:darkstone_tile_inner_cyan",
+		"subterrain:darkstone_tile_inner_orange",
+		"subterrain:darkstone_tile_inner_amber",
+		"subterrain:darkstone_tile_inner_grey",
+		"subterrain:darkstone_tile_inner_dark_grey",
+		"subterrain:darkstone_tile_inner_charcoal",
+		"subterrain:darkstone_tile_inner_black",
+		"subterrain:darkstone_tile_inner_green",
+		"subterrain:darkstone_tile_inner_lime",
+		"subterrain:darkstone_tile_inner_olive",
+		"subterrain:darkstone_tile_inner_magenta",
+		"subterrain:darkstone_tile_inner_pink",
+		"subterrain:darkstone_tile_inner_purple",
+		"subterrain:darkstone_tile_inner_violet",
+		"subterrain:darkstone_tile_inner_yellow",
+		"subterrain:darkstone_tile_inner_brown"
+	]
+}

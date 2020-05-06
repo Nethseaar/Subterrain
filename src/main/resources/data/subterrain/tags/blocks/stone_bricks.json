@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [stone_bricks.json
+    "subterrain:darkstone_bricks",
+    "subterrain:dimstone_bricks",
+    "subterrain:lightstone_bricks",
+    "subterrain:deathstone_bricks",
+    "subterrain:floatstone_bricks",
+    "subterrain:springstone_bricks",
+    "subterrain:darkstone_bricks_white",
+    "subterrain:darkstone_bricks_pearl",
+    "subterrain:darkstone_bricks_red",
+    "subterrain:darkstone_bricks_maroon",
+    "subterrain:darkstone_bricks_blue",
+    "subterrain:darkstone_bricks_light_blue",
+    "subterrain:darkstone_bricks_cyan",
+    "subterrain:darkstone_bricks_orange",
+    "subterrain:darkstone_bricks_amber",
+    "subterrain:darkstone_bricks_grey",
+    "subterrain:darkstone_bricks_dark_grey",
+    "subterrain:darkstone_bricks_charcoal",
+    "subterrain:darkstone_bricks_black",
+    "subterrain:darkstone_bricks_green",
+    "subterrain:darkstone_bricks_lime",
+    "subterrain:darkstone_bricks_olive",
+    "subterrain:darkstone_bricks_magenta",
+    "subterrain:darkstone_bricks_yellow",
+    "subterrain:darkstone_bricks_pink",
+    "subterrain:darkstone_bricks_purple",
+    "subterrain:darkstone_bricks_violet",
+    "subterrain:darkstone_bricks_brown"
+  ]
+}
