@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XIX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:purple_dye"
+    },
+    "I": {
+      "item": "minecraft:blue_dye"
+    },
+    "X": {
+      "tag": "subterrain:darkstones"
+    }
+  },
+  "result": {
+    "item": "subterrain:darkstone_violet",
+    "count": 7
+  }
+}
