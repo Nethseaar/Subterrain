@@ -1,23 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "XXX",
-    "X#X",
-    "XIX"
-  ],
-  "key": {
-    "#": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "item": "minecraft:orange_dye"
     },
-    "I": {
+    {
       "item": "minecraft:brown_dye"
     },
-    "X": {
-      "tag": "subterrain:darkstones"
+    {
+      "tag": "subterrain:darkstones",
+      "count": 16
     }
-  },
+  ],
   "result": {
     "item": "subterrain:darkstone_amber",
-    "count": 7
+    "count": 16
   }
 }

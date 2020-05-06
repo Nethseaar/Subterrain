@@ -1,18 +1,14 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "XXX",
-    "X#X",
-    "XXX"
-  ],
-  "key": {
-    "#": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "item": "minecraft:cyan_dye"
     },
-    "X": {
-      "tag": "subterrain:darkstones"
+    {
+      "tag": "subterrain:darkstones",
+      "count": 8
     }
-  },
+  ],
   "result": {
     "item": "subterrain:darkstone_cyan",
     "count": 8
